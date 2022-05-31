@@ -1,4 +1,4 @@
 ## My favorite foods
--Pizza 🍕
--Ramen 🍜
--Grilled Chicken 🍗
+- Pizza 🍕
+- Ramen 🍜
+- Grilled Chicken 🍗
